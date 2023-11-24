@@ -1,0 +1,1 @@
+Document.QUERYELECTOR('.TECLA_POM');
